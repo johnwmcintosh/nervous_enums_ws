@@ -1,0 +1,9 @@
+source;share/nervous_enums/hook/pythonpath.ps1
+source;share/nervous_enums/hook/pythonpath.dsv
+source;share/nervous_enums/hook/pythonpath.sh
+source;share/nervous_enums/hook/ament_prefix_path.ps1
+source;share/nervous_enums/hook/ament_prefix_path.dsv
+source;share/nervous_enums/hook/ament_prefix_path.sh
+source;../../build/nervous_enums/share/nervous_enums/hook/pythonpath_develop.ps1
+source;../../build/nervous_enums/share/nervous_enums/hook/pythonpath_develop.dsv
+source;../../build/nervous_enums/share/nervous_enums/hook/pythonpath_develop.sh

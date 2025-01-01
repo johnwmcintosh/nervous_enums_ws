@@ -1,0 +1,17 @@
+[1.274s] Invoking command in '/home/john/nervous_enums_ws/build/nervous_enums': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/john/nervous_enums_ws/build/nervous_enums/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/john/nervous_enums_ws/install/nervous_enums/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/john/nervous_enums_ws/build/nervous_enums/build --no-deps symlink_data
+[1.738s] running develop
+[2.015s] running egg_info
+[2.015s] creating nervous_enums.egg-info
+[2.040s] writing nervous_enums.egg-info/PKG-INFO
+[2.040s] writing dependency_links to nervous_enums.egg-info/dependency_links.txt
+[2.041s] writing requirements to nervous_enums.egg-info/requires.txt
+[2.041s] writing top-level names to nervous_enums.egg-info/top_level.txt
+[2.041s] writing manifest file 'nervous_enums.egg-info/SOURCES.txt'
+[2.093s] reading manifest file 'nervous_enums.egg-info/SOURCES.txt'
+[2.093s] writing manifest file 'nervous_enums.egg-info/SOURCES.txt'
+[2.124s] running build_ext
+[2.124s] Creating /home/john/nervous_enums_ws/install/nervous_enums/lib/python3.12/site-packages/nervous-enums.egg-link (link to .)
+[2.125s] 
+[2.125s] Installed /home/john/nervous_enums_ws/build/nervous_enums
+[2.125s] running symlink_data
+[2.221s] Invoked command in '/home/john/nervous_enums_ws/build/nervous_enums' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/john/nervous_enums_ws/build/nervous_enums/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/john/nervous_enums_ws/install/nervous_enums/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/john/nervous_enums_ws/build/nervous_enums/build --no-deps symlink_data
